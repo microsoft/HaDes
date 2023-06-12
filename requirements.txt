@@ -107,7 +107,7 @@ thinc==7.0.4
 tokenizers==0.9.2
 torch==1.5.1
 tqdm==4.32.1
-transformers==3.4.0
+transformers==4.30.0
 ujson==1.35
 Unidecode==1.1.1
 uritemplate==3.0.0
