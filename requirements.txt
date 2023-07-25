@@ -9,7 +9,7 @@ blis==0.2.4
 boto3==1.9.184
 botocore==1.12.184
 cachetools==3.1.1
-certifi==2019.6.16
+certifi==2023.7.22
 chardet==3.0.4
 Click==7.0
 colorama==0.3.9
